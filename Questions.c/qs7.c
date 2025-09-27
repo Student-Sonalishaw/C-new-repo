@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//print an table of a number by using loop
 int main(){
     int n;
     printf("Enter n: ");
