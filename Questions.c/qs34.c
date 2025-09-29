@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+// convert a string to uppercase without using library functions.
 int main(){
     char str[100];
 
