@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #include<stdio.h>
 // convert a string to lowercase without using library functions.
 int main(){
