@@ -3,7 +3,7 @@
 //check if a string is a palindrome.(palindrome = original and reverse is same)
 int main(){
     char str[1000];
-    int madamflag = 0;
+    int flag = 0;
     printf("Enter a string: ");
     scanf("%s",&str);
 
